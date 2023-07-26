@@ -10,6 +10,6 @@ Let $h[j]=h_{re}[j]+i h_{im}[j]$ be the channel state information at time $j$. T
 
 # Impact of age of information and feature length on the inference error
 
-<figure><img width="500" id="_x0000_i1025" src="./wiopt2023.png" alt="test" title=" "> 
+<figure><img width="500" id="_x0000_i1025" src="[./wiopt2023.png](https://github.com/Kamran0153/Channel-State-Information-Prediction/blob/main/CSIInferenceError.jpg)https://github.com/Kamran0153/Channel-State-Information-Prediction/blob/main/CSIInferenceError.jpg" alt="test" title=" "> 
         </figure> 
 
